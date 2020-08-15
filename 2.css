@@ -2,23 +2,26 @@
 *{
 	font-family: "Montserrat",sans-serif;
 }
+html{
+	margin:0 0 0 0;
+}
 body{
-	width: 100%;
+	/*width: 60%;*/
 	background: #ffffff;
 	background-size: cover;
 	background-repeat: no-repeat;
-	margin: 0;
+	margin:auto;
 	padding: 0;
 }
 .wrap{
 	position: fixed;
 	width: 100%;
 	overflow: auto;
-	line-height: 80px;
+	line-height: 100px;
 	background:#000000;
 }
 header{
-	position: fixed;
+	
 	font-size: 5em;
 	float: left;
 }
@@ -28,7 +31,7 @@ header a{
 	margin-left: 10px;
 }
 nav{
-	position: fixed;
+	
 	margin-left: 150px;
 	float: left;
 	font-size: 18px;
@@ -66,10 +69,12 @@ nav a:hover{
 	text-transform: uppercase;  
 }
 .one{
-	width: 100%
+	margin: 85px 0 0 0;
+	position: fixed;
+	width: 100%;
 }
 .scroll {
-	margin: 84px -606px 0 0;
+	width: 100%;
 	background:#747474
 
 }
@@ -79,16 +84,4 @@ nav a:hover{
 }
 .s1{
 	color: #ffffff;
-}
-.video{
-	width: 50%;
-	float:left;
-}
-.two{
-	width: 50
-}
-.intro{
-	width: 50%
-	margin: 50px;
-
 }
