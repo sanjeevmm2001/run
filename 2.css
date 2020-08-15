@@ -86,7 +86,7 @@ nav a:hover{
 	color: #ffffff;
 }
 .video{
-	margin: 104px 0 0 0;
+	/*margin: 104px 0 0 0;*/
 	float: left;
 	width: 60%;
 	height: 100px;
@@ -95,8 +95,8 @@ nav a:hover{
 	width: 100%;
 }
 .two{
-	margin: 91px 0 0 0;
+	/*margin: 91px 0 0 0;*/
 	float:right; 
-	width: 33%
+	width: 33%;
 	text-align:center;
 }
