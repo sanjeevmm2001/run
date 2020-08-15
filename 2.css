@@ -14,7 +14,7 @@ body{
 	padding: 0;
 }
 .wrap{
-	position: fixed;
+	position: sticky;
 	width: 100%;
 	overflow: auto;
 	line-height: 100px;
@@ -69,8 +69,8 @@ nav a:hover{
 	text-transform: uppercase;  
 }
 .one{
-	margin: 85px 0 0 0;
-	position: fixed;
+	margin: 0 0 0 0;
+	position: sticky;
 	width: 100%;
 }
 .scroll {
@@ -84,4 +84,19 @@ nav a:hover{
 }
 .s1{
 	color: #ffffff;
+}
+.video{
+	margin: 104px 0 0 0;
+	float: left;
+	width: 60%;
+	height: 100px;
+}
+.intro{
+	width: 100%;
+}
+.two{
+	margin: 91px 0 0 0;
+	float:right; 
+	width: 33%
+	text-align:center;
 }
