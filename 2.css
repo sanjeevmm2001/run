@@ -7,7 +7,7 @@ html{
 }
 body{
 	/*width: 60%;*/
-	background: #ffffff;
+	background: #bfbfbf;
 	background-size: cover;
 	background-repeat: no-repeat;
 	margin:auto;
@@ -18,7 +18,7 @@ body{
 	width: 100%;
 	overflow: auto;
 	line-height: 100px;
-	background:#000000;
+	background:#0d0d0d
 }
 header{
 	
@@ -75,7 +75,7 @@ nav a:hover{
 }
 .scroll {
 	width: 100%;
-	background:#747474
+	background:#404040;
 
 }
 .scroll a{
@@ -96,7 +96,15 @@ nav a:hover{
 }
 .two{
 	/*margin: 91px 0 0 0;*/
+	background: #ffffff;
 	float:right; 
-	width: 33%;
+	width: 40%;
 	text-align:center;
+}
+.three{
+	margin: 0 0 0 0;
+}
+.words{
+	margin: 0 100px 0 100px;
+	text-align: justify;
 }
