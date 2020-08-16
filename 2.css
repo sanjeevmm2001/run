@@ -88,7 +88,7 @@ nav a:hover{
 .video{
 	/*margin: 104px 0 0 0;*/
 	float: left;
-	width: 60%;
+	width: 50%;
 	height: 100px;
 }
 .intro{
@@ -98,7 +98,7 @@ nav a:hover{
 	/*margin: 91px 0 0 0;*/
 	background: #ffffff;
 	float:right; 
-	width: 40%;
+	width: 50%;
 	text-align:center;
 }
 .three{
